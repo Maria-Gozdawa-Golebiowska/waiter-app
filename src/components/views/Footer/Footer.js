@@ -1,8 +1,8 @@
 const Footer  = () => {
     return (
-        <Footer className="text-center fw-lighter text-muted mt-4 font-monospace">
-            <p>Copyright &copy; PizzeriaApp 2024</p>
-        </Footer>
+        <footer className="text-center fw-lighter text-muted mt-4 fs-6">
+            <p>Copyright &copy; WaiterApp 2024</p>
+        </footer>
     )
 }
 export default Footer;
