@@ -1,1 +1,1 @@
-https://2e86647f-cd67-40a8-aea5-3d1796c8edbd-00-37gu4w0exdc4g.picard.replit.dev/
+https://251ab363-02d8-4448-8c30-cd01225da4c0-00-39186qq5ajk9k.riker.replit.dev/
